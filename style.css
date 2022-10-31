@@ -1,0 +1,125 @@
+body{
+}
+
+.navbar{
+   
+}
+.fa-solid{
+
+    color:plum;
+}
+.smk{
+   
+  
+}
+form{
+    
+}
+.rose{
+    color:#FA255E
+}
+.dark{
+    color:#fae596;
+}
+.cake{
+    color:#51e2f5
+}
+.cakesz{
+    padding-left:100px;
+    font-weight: 150px;
+    
+}
+.fg{
+    display: flex;
+    padding:30px;
+}
+
+
+h4{
+    font-family: 'Fira Sans', sans-serif;
+    text-transform: capitalize;
+    color:black;
+    text-align: center;
+    text-decoration:underline;
+}
+h4:hover{
+    color:red;
+}
+
+ 
+
+.caro{
+    text-align: center;
+    background-color:white;}
+.fa-star{
+   
+    color:gold;
+}
+.copy{
+    color:black;
+}
+footer{
+   text-align: center;
+   background-color: antiquewhite;
+   height: 100px;
+   padding-top: 10px;
+}
+.brand:hover{
+color:plum;
+}
+.house{
+    color:black;
+}
+.img{
+    text-align: center;
+}
+.firstimage{
+    height:330px;
+}
+.secondb{
+    height:330px; 
+}
+.thirdb{
+    height:330px;
+}
+
+
+.card{
+   border:none;
+   border-style: solid;
+   border-width: 0.5px;
+   padding:5px;
+}
+
+.four {
+    height:330px;
+}
+.five{
+    height:330px;
+}
+.six{
+    height:330px;
+}
+
+
+@media (max-width:991px){
+    h1{
+        text-align: center;
+    }
+  
+   
+}
+@media (max-width:500px){
+    h1{
+        text-align: center;
+    }
+   
+}
+@media (max-width:600px){
+    h1{
+        text-align: center;
+    }
+   
+}
+
+    

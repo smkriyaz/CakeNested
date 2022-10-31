@@ -1,0 +1,10 @@
+form{
+    background: linear-gradient(#ffafbd,#ffc3a0);
+    height: 700px;
+}
+.smk{
+    border-style: solid;
+    border-width: 2PX;
+    border-radius: 25px;
+    padding:30px;
+}
